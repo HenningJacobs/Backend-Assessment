@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBackend", "MusicBackend\MusicBackend.csproj", "{D2AD0DEB-352F-4106-9A88-9040300D3D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicBackend.Tests", "MusicBackend.Tests\MusicBackend.Tests.csproj", "{29766FA2-C433-4FC4-983A-CA72B854B807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test-Nunit", "Test-Nunit\Test-Nunit.csproj", "{8F2FF900-A0BB-44FB-9973-3AE626E672DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2AD0DEB-352F-4106-9A88-9040300D3D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2AD0DEB-352F-4106-9A88-9040300D3D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2AD0DEB-352F-4106-9A88-9040300D3D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2AD0DEB-352F-4106-9A88-9040300D3D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29766FA2-C433-4FC4-983A-CA72B854B807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29766FA2-C433-4FC4-983A-CA72B854B807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29766FA2-C433-4FC4-983A-CA72B854B807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29766FA2-C433-4FC4-983A-CA72B854B807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2FF900-A0BB-44FB-9973-3AE626E672DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2FF900-A0BB-44FB-9973-3AE626E672DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2FF900-A0BB-44FB-9973-3AE626E672DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2FF900-A0BB-44FB-9973-3AE626E672DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
